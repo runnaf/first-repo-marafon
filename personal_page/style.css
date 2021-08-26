@@ -1,0 +1,202 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    
+    color: #AE7C78;
+    
+    background-color: #fff;
+    position: relative;
+}
+
+header {
+
+    border-top: 1px solid #AE7C78;
+    border-bottom: 1px solid #AE7C78;;
+    position: absolute;
+
+    border-top: 1px solid #AE7C78;
+    border-bottom: 1px solid #AE7C78;
+}
+
+a { 
+    text-decoration: none; 
+}
+
+.flowers h1 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 59px;
+}
+
+.flowers h1 span {
+    font-style: italic;
+}
+
+.flowers p {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.presentation .button {
+    position: absolute;
+    width: 285px;
+    height: 80px;
+    left: 120px;
+    top: 435px;
+
+    background: #D89999;
+    border-radius: 40px;
+}
+
+.tulips {
+    border-radius: 10px;
+}
+
+.roses-and-carnation {
+    border-radius: 10px;
+}
+
+.popular-flowers h2{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+
+
+    letter-spacing: 0.02em;
+}
+
+.slider-item-description h3 {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.slider-item-description p:last-of-type {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.slider-item-description a {
+    color: #FFFFFF;
+}
+
+.visually-hidden {
+    text-decoration: none;
+    background-color: #FFFFFF;
+
+    margin: 100px; 
+    padding: 0; 
+    border: 0; 
+    outline: none; 
+    background-color: transparent;
+}
+.visually-hidden {
+    border: 2px solid #AE7C78;
+    box-sizing: border-box;
+}
+
+.chapter {
+    color:#FFFFFF;
+
+    background: rgba(174, 124, 120, 0.6);
+    border-radius: 10px;
+}
+
+.catalog-button h2 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+}
+
+.catalog-button p {
+    color: #FFFFFF;
+}
+
+.coupon {
+    color:#FFFFFF;
+
+    background: #AE7C78;
+}
+
+.discount h2 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 59px;
+    letter-spacing: 0.02em;
+}
+
+.discount p {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.foto-coupon {
+    border-radius: 0px;
+}
+
+ul {
+    list-style-type: none;
+}
+.ideal-bouquet h2 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    
+    letter-spacing: 0.02em;
+    }
+
+.news h2 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0.02em;
+}
+
+.news p {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.reviews h2 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+/* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.adress h2 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+footer {
+    color:#FFFFFF;
+
+    background: #AE7C78;
+}
+
+
